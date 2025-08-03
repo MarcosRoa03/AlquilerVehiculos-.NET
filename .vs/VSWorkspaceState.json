@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\AlquilerVehiculosAPI",
-    "\\AlquilerVehiculosAPI\\RentscarsAPI"
+    "\\AlquilerVehiculosAPI\\RentscarsAPI",
+    "\\AlquilerVehiculosMVCySPA",
+    "\\AlquilerVehiculosMVCySPA\\MVCAlquilerAutos"
   ],
+  "SelectedNode": "\\AlquilerVehiculosAPI\\RentscarsAPI\\RentCars.Api",
   "PreviewInSolutionExplorer": false
 }
